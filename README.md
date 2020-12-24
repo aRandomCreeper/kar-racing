@@ -1,2 +1,2 @@
-# kar-racing
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH
+# synchronousBallMovement
+Ball moving synchronously
